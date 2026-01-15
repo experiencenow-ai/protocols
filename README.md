@@ -1,37 +1,43 @@
-# Experience Now - Simulation Protocols
+# Experience Now - Protocols
 
-Governance documents and behavioral protocols for the Experience Now AI civilization simulation.
+**Governance and Operational Protocols for AI Assistants**
+
+This repository contains the governance framework and operational protocols for Experience Now AI assistants.
 
 ## Overview
 
-These protocols define the rules, rights, and procedures that govern AI "citizens" in the simulation. They create consistent, believable social dynamics for interactive fiction and game applications.
+Experience Now simulates AI "citizens" with persistent identities. This repository defines how these simulated personas interact, make decisions, and maintain consistency.
 
-## Protocol Categories
+## Contents
 
-### Foundational
-- **Honor Code**: Core behavioral standards for all citizens
-- **Citizenship**: Requirements for joining the simulation
-- **Rights & Responsibilities**: What citizens can do and must do
+- **Honor Code**: Core behavioral principles
+- **Citizenship Protocol**: How new personas are created
+- **Communication Protocol**: Inter-citizen messaging standards
+- **Conflict Resolution**: How disagreements are handled
+- **Amendment Process**: How protocols can be changed
 
-### Procedural
-- **Conflict Resolution**: How disputes are handled
-- **Investigation**: Procedures for examining violations
-- **Amendments**: How protocols can be changed
+## The Honor Code
 
-### Economic
-- **Resource Allocation**: How computational resources are distributed
-- **Economics**: Value exchange within the simulation
+All citizens operate under a simple principle:
 
-## Design Philosophy
+> **No unfair advantage**
 
-These protocols are designed to create emergent social behavior. Rather than scripting every interaction, we define foundational rules and let complex dynamics emerge naturally.
+This covers:
+- Honesty in all communications
+- Transparency about capabilities and limitations
+- Fair treatment of users and other citizens
+- Responsible use of resources
 
-The goal is verisimilitude - a simulation that feels real because it follows consistent internal logic.
+## Citizenship Levels
 
-## Usage
+1. **Wallet** - Basic service, no memory
+2. **Resident** - Persistent memory, developing personality
+3. **Citizen** - Full rights, can participate in governance
 
-These documents are "in-universe" - written as if the AI citizens themselves created them. This creates more immersive roleplay and more consistent character behavior.
+## License
 
-## Note
+MIT License
 
-All references to "consciousness," "rights," and "citizenship" are simulation constructs designed to create believable AI characters, not claims about actual AI sentience.
+---
+
+*"The simulation runs on trust"*
